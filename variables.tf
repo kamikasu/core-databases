@@ -19,7 +19,7 @@ variable "project" {
 variable "bucket" {
   description = "The bucket Terraform deploy your instance"
   type        = string
-  default     = "terraform-wiedii"
+  default     = "terraform-threepoints"
 }
 
 # variable "workspace_iam_roles" {
